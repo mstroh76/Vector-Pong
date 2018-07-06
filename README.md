@@ -11,7 +11,7 @@
 ----
 ## Curcuit
 
-[![Raspjamming Homepage Preview JPG](https://github.com/mstroh76/Vector-Pong/Vector_Display_Steckplatine.png)]
+[![Raspjamming Homepage Preview JPG](https://github.com/mstroh76/Vector-Pong/Vector_Display_Schaltplan.png)]
 
 > created with Fritzing.
 
