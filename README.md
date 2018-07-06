@@ -22,4 +22,4 @@ Use the potis to move the paddles up and down. try to hit the ball.
 
 ----
 ## Pictures
-[![game picture](https://raw.githubusercontent.com/mstroh76/Vector-Pong/master/Pong.png)]
+[![game picture](https://raw.githubusercontent.com/mstroh76/Vector-Pong/master/Pong.jpg)]
