@@ -1,6 +1,5 @@
 # 'pong' vector game (Raspberry Pi)
 
-----
 ## Needs
 - Raspberry Pi
 - Oszilloscope with XY-Mode
@@ -9,17 +8,14 @@
 - 2 x Poti (10-100 kOhm)
 - 2 x Pullup resistor (10 kOhm)
 
-----
 ## Curcuit
 
 [![circuit diagram](https://raw.githubusercontent.com/mstroh76/Vector-Pong/master/Vector_Display_Schaltplan.png)]
 
 > created with Fritzing.
 
-----
 ## usage
 Use the potis to move the paddles up and down. try to hit the ball. 
 
-----
-## Pictures
-[![game picture](https://raw.githubusercontent.com/mstroh76/Vector-Pong/master/Pong.jpg)]
+## Gameplay
+[![Youtube video](https://raw.githubusercontent.com/mstroh76/Vector-Pong/master/Pong.jpg)](https://www.youtube.com/watch?v=a1Rmvid1bpY)
